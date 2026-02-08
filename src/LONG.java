@@ -2,8 +2,10 @@
 public class LONG {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		long a = 20L;
+        long b = 5L;
 
-	}
+        System.out.println("Result: " + (a + b));
+    }
 
 }
